@@ -65,7 +65,7 @@ gl_FragColor=vec4(c,1.);
 
 ## Comparación visual
 
-* | Referencia (`gato_inspo.webp`)  | Shader Resultante (`gato_resultado.png`) |
+| Referencia (`gato_inspo.webp`)  | Shader Resultante (`gato_resultado.png`) |
 | ------------------------------- | ---------------------------------------- |
 | ![gato\_inspo](gato_inspo.webp) | ![gato\_resultado](gato_resultado.png)   |
 
