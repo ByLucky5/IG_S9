@@ -73,6 +73,17 @@ La intención fue mantener **la esencia y expresión del gato original**, pero t
 
 ---
 
+## Video de construcción del shader
+
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BRTBLDLod9c" target="_blank">
+    <img src="https://img.youtube.com/vi/BRTBLDLod9c/0.jpg" alt="Ver demo del Visor" width="480">
+  </a>
+</p>
+
+---
+
 ## Fuentes
 
 * **Arte geométrico / Vasarely:** inspiración en patrones de celdas, rotación y repetición.
